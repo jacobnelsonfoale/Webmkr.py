@@ -31,4 +31,4 @@ def pagemk(name, content):
 #postmk("Hello World!", "This is a example of a basic webmanager post, you can edit this post by going to postmkr and editing the details of this post. Then try running postmkr.py with.\nPYTHON3 POSTMKR.PY", "Dunnk00p", "3 Dec 2022")
 
 #uncomment to make page
-pagemk("Contact", "Email: contact@example.com<br>Fax: ????")
+#pagemk("Contact", "Email: contact@example.com<br>Fax: ????")
