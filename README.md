@@ -1,5 +1,5 @@
 # Webmkr.py
-Simple minimal blogging tool written in python
+Simple, minimal and lightweight blogging tool written in python
 
 # Install
 Clone Repo - 
