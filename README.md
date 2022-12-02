@@ -20,5 +20,5 @@ Click the Index.html file and navigate to your new post.
 
 ## Using alpaca
 
-# Editing Guide
+# Further Editing Guide
 
