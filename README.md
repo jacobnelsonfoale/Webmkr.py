@@ -18,7 +18,10 @@ Click the Index.html file and navigate to your new post.
 
 ## Setup with Apache
 
-## Using alpaca
+### Install and Using alpaca
+
+## Setup with ngix
+
 
 # Further Editing Guide
 
