@@ -18,9 +18,18 @@ Click the Index.html file and navigate to your new post.
 ![Screenshot from 2022-12-03 02-15-31](https://user-images.githubusercontent.com/78283092/205331428-585d737b-2bfb-44e5-8d73-df1da3910a8c.png)
 
 
-## Setup with Apache
+## Run with Apache
+Go to the Apache Folder -
+`cd Apache`
+
+make the install.sh executable -
+`chmod +x install.sh`
+
+Run the install script -
+`./install.sh`
 
 ### Install and Using alpaca
+
 
 ## Setup with ngix
 
