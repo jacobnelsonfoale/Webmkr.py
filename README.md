@@ -1,5 +1,7 @@
 # Webmkr.py
-Simple, minimal and lightweight blogging tool written in python
+[![Documentation Status](https://readthedocs.org/projects/webmkrpy/badge/?version=latest)](https://webmkrpy.readthedocs.io/en/latest/?badge=latest)
+
+Simple, minimal and lightweight blogging tool written in python.
 
 # Install
 Clone Repo - 
