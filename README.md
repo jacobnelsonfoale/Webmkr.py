@@ -40,4 +40,4 @@ alpaca is a cli made by Dunn-Dev8 to manage your apache server, for more infomat
 `https://github.com/Dunn-Dev8/alpaca-apache`
 
 # Further Editing Guide
-https://webmkr-py.netlify.app/posts/webmkr%20documentation
+https://webmkr-py.netlify.app/posts/Documentation.pdf
