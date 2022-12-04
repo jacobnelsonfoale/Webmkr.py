@@ -14,6 +14,7 @@ def indexer_clean(btype):
     with open(indexer, "a") as file:
         file.write("<h3>Recent "+btype+"</h3>")
         file.write("<link href=\"theme.css\" rel=\"stylesheet\">")
+        file.write("<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\n")
         file.write("<link rel=\"icon\" type=\"image/x-icon\" href=\"../favicon.ico\" />")
         file.close
 
