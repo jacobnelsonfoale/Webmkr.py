@@ -39,9 +39,5 @@ Run the install script -
 alpaca is a cli made by Dunn-Dev8 to manage your apache server, for more infomation go to: 
 `https://github.com/Dunn-Dev8/alpaca-apache`
 
-
-## Setup with ngix
-
-
 # Further Editing Guide
-
+https://webmkr-py.netlify.app/posts/webmkr%20documentation
