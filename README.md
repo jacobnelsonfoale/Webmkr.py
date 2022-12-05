@@ -1,4 +1,4 @@
-# Webmkr.py Developer Branch
+# Webmkr.py 
 [![Wiki Status](https://api.netlify.com/api/v1/badges/581b5701-5a3f-4a38-9a41-83886fd8b82e/deploy-status)](https://app.netlify.com/sites/webmkr-py/deploys)
 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
@@ -11,7 +11,7 @@ https://webmkr-py.netlify.app/posts/Documentation.pdf
 
 Simple, minimal and lightweight blogging tool written in python.
 
-# Install Dev Branch
+# Install 
 Clone Repo - 
 `git clone  https://github.com/Dunn-Dev8/Webmkr.py`
 
