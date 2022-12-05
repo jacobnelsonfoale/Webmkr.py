@@ -13,7 +13,7 @@ Simple, minimal and lightweight blogging tool written in python.
 
 # Install Dev Branch
 Clone Repo - 
-`git clone --branch dev-fermata https://github.com/Dunn-Dev8/Webmkr.py
+`git clone  https://github.com/Dunn-Dev8/Webmkr.py`
 
 Edit the postmkr.py file
 and remove the comment on line 31 -
