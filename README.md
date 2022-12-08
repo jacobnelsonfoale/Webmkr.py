@@ -15,6 +15,8 @@ Simple, minimal and lightweight blogging tool written in python.
 Clone Repo - 
 `git clone --branch dev-fermata https://github.com/Dunn-Dev8/Webmkr.py`
 
+**NOTE: Most instructions on this README.md have not been updated apropreatly, please visit https://webmkr-py.netlify.app/posts/Documentation.pdf for better introduction
+
 Edit the postmkr.py file
 and remove the comment on line 31 -
 `postmk("Hello World!", "This is a example of a basic webmanager post, you can edit this post by going to postmkr and editing the details of this post. Then try running postmkr.py with.\nPYTHON3 POSTMKR.PY", "Dunnk00p", "3 Dec 2022")`
