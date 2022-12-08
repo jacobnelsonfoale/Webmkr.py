@@ -12,8 +12,13 @@ https://webmkr-py.netlify.app/posts/Documentation.pdf
 Simple, minimal and lightweight blogging tool written in python.
 
 # Install 
-Clone Repo - 
+Clone Stable Repo - 
 `git clone  https://github.com/Dunn-Dev8/Webmkr.py`
+
+Clone Development Repo -
+`git clone --branch dev-fermata https://github.com/Dunn-Dev8/Webmkr.py`
+
+#### NOTE: Most instructions on this README.md have not been updated in a while, please visit https://webmkr-py.netlify.app/posts/Documentation.pdf for better explination
 
 Edit the postmkr.py file
 and remove the comment on line 31 -
