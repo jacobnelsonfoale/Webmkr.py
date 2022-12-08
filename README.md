@@ -5,9 +5,6 @@
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-https://webmkr-py.netlify.app/posts/Documentation.pdf
-
-
 
 Simple, minimal and lightweight blogging tool written in python.
 
@@ -15,17 +12,20 @@ Simple, minimal and lightweight blogging tool written in python.
 Clone Repo - 
 `git clone --branch dev-fermata https://github.com/Dunn-Dev8/Webmkr.py`
 
-#### NOTE: Most instructions on this README.md have not been updated apropreatly, please visit https://webmkr-py.netlify.app/posts/Documentation.pdf for better introduction
+# Make Post
+Add all markdown files to the markdown folder in your webmkr project (If you don't know what markdown is then learn it).
 
-Edit the postmkr.py file
-and remove the comment on line 31 -
-`postmk("Hello World!", "This is a example of a basic webmanager post, you can edit this post by going to postmkr and editing the details of this post. Then try running postmkr.py with.\nPYTHON3 POSTMKR.PY", "Dunnk00p", "3 Dec 2022")`
+Run -
+`Python3 webmkr.py` 
 
-Run the code with - 
-`python3 postmkr.py`
+#### NOTE: Do not remove any markdown posts in the markdown directory or else the posts will be deleted next time the webmkr.py script is run
 
-Click the Index.html file and navigate to your new post.
-![Screenshot from 2022-12-03 02-15-31](https://user-images.githubusercontent.com/78283092/205331428-585d737b-2bfb-44e5-8d73-df1da3910a8c.png)
+# Developer Branch "Exclusive" Features
+- access to the CLI of webmkr.py
+- Ability to update your developer build of webmkr with
+`python3 webmkr.py -u dev`
+No more need to restart your project when their is a new version of webmkr
+
 
 
 ## Run with Apache
