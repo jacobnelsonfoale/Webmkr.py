@@ -1,15 +1,21 @@
-# Webmkr.py Developer Branch
+# Webmkr.py 
 [![Wiki Status](https://api.netlify.com/api/v1/badges/581b5701-5a3f-4a38-9a41-83886fd8b82e/deploy-status)](https://app.netlify.com/sites/webmkr-py/deploys)
 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+https://webmkr-py.netlify.app/posts/Documentation.pdf
+
+
 
 Simple, minimal and lightweight blogging tool written in python.
 
-# Install Dev Branch
-Clone Repo - 
+# Install 
+Clone Stable Repo - 
+`git clone  https://github.com/Dunn-Dev8/Webmkr.py`
+
+Clone Development Repo -
 `git clone --branch dev-fermata https://github.com/Dunn-Dev8/Webmkr.py`
 
 # Make Post
@@ -19,14 +25,6 @@ Run -
 `Python3 webmkr.py` 
 
 #### NOTE: Do not remove any markdown posts in the markdown directory or else the posts will be deleted next time the webmkr.py script is run
-
-# Developer Branch "Exclusive" Features
-- access to the CLI of webmkr.py
-- Ability to update your developer build of webmkr with
-`python3 webmkr.py -u dev`
-No more need to restart your project when their is a new version of webmkr
-
-
 
 ## Run with Apache
 Go to the Apache Folder -
