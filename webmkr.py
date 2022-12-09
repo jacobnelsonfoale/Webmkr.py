@@ -13,7 +13,7 @@ def updater(branch):
 		sys.exit()
 	if branch == "developer":
 		print("Downloading from Developer Branch")
-		os.system("curl -o https://raw.githubusercontent.com/Dunn-Dev8/Webmkr.py/dev-fermata/webmkr.py")
+		os.system("curl https://raw.githubusercontent.com/Dunn-Dev8/Webmkr.py/dev-fermata/webmkr.py")
 		sys.exit()
 	
 def ver():
