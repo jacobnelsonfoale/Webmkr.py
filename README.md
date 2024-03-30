@@ -1,5 +1,6 @@
 # Webmkr.py 
 [![Wiki Status](https://api.netlify.com/api/v1/badges/581b5701-5a3f-4a38-9a41-83886fd8b82e/deploy-status)](https://app.netlify.com/sites/webmkr-py/deploys)
+[![Project Status: Abandoned – Initial development has started, but there has not yet been a stable, usable release; the project has been abandoned and the author(s) do not intend on continuing development.](https://www.repostatus.org/badges/latest/abandoned.svg)](https://www.repostatus.org/#abandoned)
 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
